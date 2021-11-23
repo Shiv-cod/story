@@ -4,3 +4,8 @@ for creating local repo:-
 (3)commit the files by using cmd->git commit -m("this is the initial comit or satrting commit")
 (4)for diff cmd->git diff textfile.txt
 (5)for revert changes ->git checkout textfile.txt
+
+for remote repository->
+1)git remote add origin master https://github.com/Shiv-cod/story.git
+2)to push local repository to remote repository use this cmd->
+git push -u origin master
