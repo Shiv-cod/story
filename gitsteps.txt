@@ -1,0 +1,6 @@
+for creating local repo:-
+(1)first initilize the directory by this cmd->git init
+(2)add into staging area by this comand->git add textfile.txt
+(3)commit the files by using cmd->git commit -m("this is the initial comit or satrting commit")
+(4)for diff cmd->git diff textfile.txt
+(5)for revert changes ->git checkout textfile.txt
